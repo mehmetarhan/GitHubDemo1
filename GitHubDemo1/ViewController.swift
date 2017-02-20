@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("Let's see if GitHub is working")
+        print("Is it working?")
     }
 
     override func didReceiveMemoryWarning() {
