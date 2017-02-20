@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         print("Let's see if GitHub is working")
         print("Is it working?")
+        
+        print("This is for second commit")
     }
 
     override func didReceiveMemoryWarning() {
